@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827195851413",
+    "project_id": "uasmobile2-5e3d3",
+    "storage_bucket": "uasmobile2-5e3d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827195851413:android:77208b7ea831ba1dabd19c",
+        "android_client_info": {
+          "package_name": "com.example.uas_mobile2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAy3CbdEcviCfChuyVfZizkcjBszdzWgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
